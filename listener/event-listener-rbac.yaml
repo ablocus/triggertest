@@ -83,4 +83,4 @@ roleRef:
 apiVersion: v1
 kind: ServiceAccount
 metadata:
-  name: workshop-event-listen
+  name: workshop-event-listener
